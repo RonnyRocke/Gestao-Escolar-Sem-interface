@@ -1,7 +1,8 @@
 DEMONSTRAÇÃO:
 
 
-![projeto](https://github.com/RonnyRocke/Gestao-Escolar-Sem-interface/assets/160675237/4cb85d0d-3e23-48e1-a850-474e10ea7fc8)
+
+![pronto](https://github.com/RonnyRocke/Gestao-Escolar-Sem-interface/assets/160675237/391e749f-56f8-4868-b560-d9ef4d8f8c68)
 
 
 COMPILE: javac SistemaEscolarGUI.java
