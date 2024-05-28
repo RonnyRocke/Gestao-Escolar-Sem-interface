@@ -80,7 +80,7 @@ public class SistemaEscolarGUI {
 
     // Método para exibir o menu principal
     private static void exibirMenu() {
-        System.out.println("\n### GESTÃO ESCOLAR ### - Desenvolvedores: Ronald, Gabriel, Guilherme");
+        System.out.println("\n### GESTÃO ESCOLAR ### - Desenvolvedores: Ronald, Gabriel, Guilherme, Nathan");
         System.out.println("ESCOLHA UMA OPÇÃO: ");
 
         // Opções do menu
